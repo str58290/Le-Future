@@ -10,7 +10,7 @@ In addition, this project was also created to bring about a futuristic way of lo
 ## Section #1: Pre-requisites
 ### To set up virtual machine and reqirements
 1. Upon receiving this project folder, you will realise that this folder contains a python environment
-2. Ensure that your cmd line/terminal window is in the '*CS50*' folder 
+2. Ensure that your cmd line/terminal window is in the '*le_future*' folder 
 3. Next run the following to first create a virtual environment called '.venv':
 
     **For both Windows and Mac:** 
